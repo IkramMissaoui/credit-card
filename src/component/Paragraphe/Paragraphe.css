@@ -1,0 +1,91 @@
+
+.div2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    position: absolute;
+    margin-top:60px;
+    width: 316px;
+    height: 40px;
+}
+.valid{
+    margin-left: 180px;
+    margin-top: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: normal;
+    color: rgb(255, 255, 255)
+}
+.month{
+    margin-left: 10px;
+    margin-top: 1px; 
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: normal;
+    color: rgb(255, 255, 255)
+}
+.span{
+    font-size: 30px;
+    font-weight: 700; 
+}
+.global{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    position: absolute;
+    width:495px;
+    height: 162px;
+}
+.visa1{
+    position: absolute;
+    width: 71px;
+    height: 94px;
+    bottom: -130px;
+    right: 0;
+}
+.divparaghpe{
+    display: flex;
+    flex-direction: column;
+  
+}
+.craditNumber{
+    width: 350px;
+    height: 28px;
+    background-color: #2F7E73;
+    color: #BDC07E;
+    margin-left: 40px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    font-weight: 400;
+    line-height: normal;
+    position: absolute;
+}
+.h-div2{
+    margin-left: 40px;
+    margin-top: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: normal;
+    color: rgb(255, 255, 255)
+    }
+    .div3{
+        position: absolute;
+        display: flex;
+        justify-content: space-between;
+        margin-top: 80px;
+        width: 450px;
+    }
+    .h-div3{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: normal;
+    color: rgb(255, 255, 255);
+    margin-left: 38px;  
+    }
+    .div1{
+        margin-top: 150px;
+    }
